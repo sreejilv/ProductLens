@@ -29,7 +29,7 @@
 ### 1. Clone & Install
 
 ```bash
-cd /Users/sreejilv/Desktop/product-analyzer
+cd /product-analyzer
 composer install
 ```
 
